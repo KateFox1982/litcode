@@ -963,7 +963,7 @@ import (
 //		results <- task * 2
 //	}
 //}
-//
+//Задача на воккеры
 //func main() {
 //	taskCount := 10
 //	workerCount := 4
