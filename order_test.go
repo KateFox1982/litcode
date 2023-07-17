@@ -1,5 +1,6 @@
 package main
 
+//тестирование
 //func TestIntToRoman(t *testing.T) {
 //	test := []int{41, 56, 74, 5, 8, 13, 38}
 //	rightResult := []string{"XLI", "LVI", "LXXIV", "V", "VIII", "XIII", "XXXVIII"}
